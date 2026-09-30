@@ -1,0 +1,10 @@
+{
+  "name": "winch",
+  "version": "0.1.0",
+  "description": "Coding agents that love Windows: skill, doctor CLI, field guides.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
