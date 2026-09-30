@@ -3,8 +3,8 @@
 ![winch — coding agents that love Windows](assets/cover.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/lastknownstar-bot/winch?style=social)](https://github.com/lastknownstar-bot/winch/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/lastknownstar-bot/winch)](https://github.com/lastknownstar-bot/winch/commits/master)
+[![GitHub stars](https://img.shields.io/github/stars/Figo-star/winch?style=social)](https://github.com/Figo-star/winch/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Figo-star/winch)](https://github.com/Figo-star/winch/commits/master)
 
 Every AI harness assumes macOS/Linux. Then it meets PowerShell 5.1, `Start-Process` quoting bugs, per-session `PATH`, and localhost OAuth callbacks — and falls over. Winch is a skill + field guide + doctor CLI distilled from real Windows agent failures, so your coding agent works here first try.
 
